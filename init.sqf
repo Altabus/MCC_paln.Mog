@@ -1,0 +1,1 @@
+[] execVM "Scripts\NEKY_PickUp\NEKY_Init.sqf";
